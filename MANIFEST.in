@@ -1,0 +1,2 @@
+include ml4pd_models/distillation_models/*
+include ml4pd_models/flash_models/*
